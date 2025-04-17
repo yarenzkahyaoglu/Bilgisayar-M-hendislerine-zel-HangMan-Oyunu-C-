@@ -1,0 +1,32 @@
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.exe
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.deps.json
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.runtimeconfig.json
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.dll
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.pdb
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam_Asmaca.Form1.resources
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.csproj.GenerateResource.cache
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.AssemblyInfoInputs.cache
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.AssemblyInfo.cs
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.dll
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\refint\Adam Asmaca.dll
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.pdb
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.genruntimeconfig.cache
+C:\Users\ynaz2\Desktop\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\ref\Adam Asmaca.dll
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.exe
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.deps.json
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.runtimeconfig.json
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.dll
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\bin\Debug\net8.0-windows\Adam Asmaca.pdb
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam_Asmaca.Form1.resources
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.csproj.GenerateResource.cache
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.AssemblyInfoInputs.cache
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.AssemblyInfo.cs
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.dll
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\refint\Adam Asmaca.dll
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.pdb
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\Adam Asmaca.genruntimeconfig.cache
+C:\Users\ynaz2\Desktop\Projeler\C# Projeleri\Adam Asmaca\Adam Asmaca\obj\Debug\net8.0-windows\ref\Adam Asmaca.dll
